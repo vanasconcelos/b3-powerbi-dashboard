@@ -1,0 +1,9 @@
+SetorSecundarioID,EmpresaID,NomeSetorSecundario
+1,PETR4,Energia
+1,PETR4,Química
+2,VALE3,Logística
+2,VALE3,Metalurgia
+3,ITUB4,Seguros
+3,BBDC4,Seguros
+4,ABEV3,Refrigerantes
+5,ABEV3,Cervejas
